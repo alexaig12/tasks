@@ -8,8 +8,8 @@ function App(): JSX.Element {
                 UM COS420 with React Hooks and TypeScript
             </header>
             <p>
-                Edit <code>src/App.tsx</code> and save. This page will
-                automatically reload. Alexa.
+                Hello World. Edit <code>src/App.tsx</code> and save. This page
+                will automatically reload. Alexa.
             </p>
         </div>
     );
